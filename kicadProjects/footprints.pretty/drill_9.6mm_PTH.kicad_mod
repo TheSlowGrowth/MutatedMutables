@@ -1,0 +1,9 @@
+(module drill_9.6mm_PTH (layer F.Cu) (tedit 5721CB77)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value drill_9.6mm_PTH (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 10.4 10.4) (drill 9.6) (layers *.Cu *.Mask))
+)

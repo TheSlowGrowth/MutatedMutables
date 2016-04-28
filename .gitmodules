@@ -1,0 +1,3 @@
+[submodule "svg2mod"]
+	path = svg2mod
+	url = https://github.com/mtl/svg2mod
