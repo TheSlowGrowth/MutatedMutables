@@ -1,5 +1,8 @@
 # MutatedMutables
 ##### Alternative PCB panels for Mutable Instruments eurorack synthesizer modules. Those panels can be ordered e.g. from oshpark or any other PCB manufacturer.
+
+![rendered image](https://github.com/TheSlowGrowth/MutatedMutables/raw/master/all_together.png)
+
 The back of the panels is bare copper. This ensures a steady ground connection and keeps noise out. 
 The front is designed in a quirky style, using bare copper, solder mask and bare pcb substrate as "colors".
 
