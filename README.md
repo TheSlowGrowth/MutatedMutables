@@ -20,4 +20,4 @@ To modify a footprint:
 3. copy the resulting `<name>.mod` file into the "footprints.pretty" folder. 
 4. update the footprint in the respective kicad project.
 
-All is released under a cc-by-sa-3.0 license. Have fun!
+All is released under a cc-by-sa-3.0 license. The .svg files and all rendered images are derivatives of the original design files by Mutable Instruments. We should praise them for their openness! Have fun!
